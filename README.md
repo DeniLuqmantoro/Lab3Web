@@ -15,7 +15,8 @@
 ![Screenshot (206)](https://user-images.githubusercontent.com/101716699/160539703-e906566c-3d38-442a-b995-286eca69fe60.png)
  
    d. Dibawah ini merupakan tampilan browser yang dihasilkan dari eksperiment yang saya lakukan.
-![Screenshot (208)](https://user-images.githubusercontent.com/101716699/160541311-6586888a-8161-43df-9065-ffb1b1583fb4.png)
+![Screenshot (209)](https://user-images.githubusercontent.com/101716699/160546719-86aebfb2-181d-48f4-92d4-74e9f2ddb166.png)
+
 
 
 <b>B. Laporan Praktikum</b>
