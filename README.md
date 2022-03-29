@@ -23,20 +23,25 @@
 1. langkah pertama seperti biasa kita membuat file baru terlebih dahulu dengan nama lab3_list.
 ![Screenshot (173)](https://user-images.githubusercontent.com/101716699/160541656-bac31020-5f20-460b-8b98-82150ad62f8b.png)
 
+2. Kemudian simpan dan coba buka pada browser.
 ![Screenshot (174)](https://user-images.githubusercontent.com/101716699/160541665-33710f17-e1d1-4666-a540-4bf3d0a1fc08.png)
 
+3. Selanjutnya kita membuat ordered list dengan menambahkan kode dibawah ini kemudian muat ulang pada halaman browser.
 ![Screenshot (175)](https://user-images.githubusercontent.com/101716699/160541668-e49dbfdf-188f-4336-b1f1-5ce48f630d09.png)
 
 ![Screenshot (176)](https://user-images.githubusercontent.com/101716699/160541673-c1effa9c-9dd0-411f-a4cf-e71a2a791ffa.png)
 
+4. Membuat Unordered list dengan menambahkan kode seperti pada gambar di bawah ini dan kemudian muat ulang halaman browser.
 ![Screenshot (177)](https://user-images.githubusercontent.com/101716699/160541677-7b2b5e34-8628-4161-b08f-be8cfb8c9088.png)
 
 ![Screenshot (178)](https://user-images.githubusercontent.com/101716699/160541678-34381843-1ebb-4611-8cbd-ecec89e0f80f.png)
 
+5. Membuat description list dengan menambahkan kode seperti pada gambar di bawah ini dan kemudian muat ulang halaman browser kembali.
 ![Screenshot (180)](https://user-images.githubusercontent.com/101716699/160541682-4a54c5a3-8479-4cc4-a559-795521f0b44c.png)
 
 ![Screenshot (181)](https://user-images.githubusercontent.com/101716699/160541685-1a9555e9-9241-460b-b0cf-1067956265dd.png)
 
+6. Disini saya melakukan eksperiment lain terkait dengan atribut type pada list.
 ![Screenshot (182)](https://user-images.githubusercontent.com/101716699/160541687-d343032b-314c-44df-b215-47f1ddebc83e.png)
 
 ![Screenshot (183)](https://user-images.githubusercontent.com/101716699/160541691-8550d891-2902-4869-b019-ba46d09f3ca5.png)
@@ -53,26 +58,32 @@
 
 ![Screenshot (189)](https://user-images.githubusercontent.com/101716699/160541712-f9d38da6-2442-4e5a-b8a0-05405eb659ec.png)
 
+7. Membuat tabel dengan membuat file baru lab3_tabel.html seperti pada gambar berikut, kemudian simpan dan buka pada browser.
 ![Screenshot (190)](https://user-images.githubusercontent.com/101716699/160541721-1d53b182-0bc5-46b8-8393-cf2c9e770b46.png)
 
 ![Screenshot (192)](https://user-images.githubusercontent.com/101716699/160541724-83f10fa0-db38-4567-8e73-774ead1628be.png)
 
 ![Screenshot (193)](https://user-images.githubusercontent.com/101716699/160541726-3b34b708-647b-41e3-9883-76c7b7d77b32.png)
 
+8. Mengatur margin dan padding tabel pada cel data dengan cara menambahkan atribut cellpadding dan cellspacing pada tag table. kemudian muat ulang halaman web pada browser.
 ![Screenshot (194)](https://user-images.githubusercontent.com/101716699/160541728-5de7b67d-cc2e-4f6c-accb-f587b718ef42.png)
 
 ![Screenshot (195)](https://user-images.githubusercontent.com/101716699/160541733-52d70693-9f79-4003-803a-29c82c32bc79.png)
 
+9. menggabungkan sel data, hal ini dilakukan dengan cara menggunakan atribut rowspan dan colspan. dimana atribut rowspan berfungsi untuk menggabungkan baris dan colspan berfungsi untuk menggabungkan kolom. pada kali ini saya akan mencoba rowspan, sesuai dengan kebutuhan. simpan dan muat ulang browser.
 ![Screenshot (196)](https://user-images.githubusercontent.com/101716699/160541736-d422e020-b507-4eff-90f7-415320c1112c.png)
 
 ![Screenshot (197)](https://user-images.githubusercontent.com/101716699/160541739-afa1f445-26a4-4d1f-aaac-88549d07ca93.png)
 
+10. Membuat Form, langkah pertama yaitu dengan membuat file baru dengan nama lab3_form.html.
 ![Screenshot (198)](https://user-images.githubusercontent.com/101716699/160541741-433054e1-2f95-43de-a010-041feb441f8e.png)
 
+11. Selanjutnya tambahkan kode untuk membuat tabel sederhana seperti pada gambar dibawah ini, kemudian simpan dan buka pada browser.
 ![Screenshot (199)](https://user-images.githubusercontent.com/101716699/160541744-d91e7f8e-7656-46db-b761-f8b129452e2c.png)
 
 ![Screenshot (200)](https://user-images.githubusercontent.com/101716699/160541746-4a2ee795-d9da-4211-9d81-2489fa89df4a.png)
 
+12. Menambahkan style pada form, seperti pada materi sebelumnya agar tampilan form lebih menarik, bisa ditambahkan CSS seperti pada gambar dibawah, kemudian simpan dan muat ulang halaman web pada browser.
 ![Screenshot (201)](https://user-images.githubusercontent.com/101716699/160541751-a6f99483-ab98-4852-8646-0e27034b8523.png)
 
 ![Screenshot (202)](https://user-images.githubusercontent.com/101716699/160541756-1e10b590-2d65-4ce9-afb2-cc64d014d1ed.png)
