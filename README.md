@@ -8,17 +8,19 @@
       sayang menggunakan element &lt;select&gt; untuk menampilkan dropdown menu dan listbox. atribut ini biasanya digunakan untuk memilih salah satu dari beberapa             pilihan yang ada pada form. untuk lebih jelasnya bisa dilihat  pada gambar dibawah ini.
 ![Screenshot (203)](https://user-images.githubusercontent.com/101716699/160539692-8ea1a265-9c25-45b3-a1b8-faf08a633dc0.png)
 
+   b. Gambar bagian 2.
 ![Screenshot (205)](https://user-images.githubusercontent.com/101716699/160539701-a88b50ea-a28c-44bc-bd73-019bfb37d22a.png)
 
+   c. Gambar bagian 3.
 ![Screenshot (206)](https://user-images.githubusercontent.com/101716699/160539703-e906566c-3d38-442a-b995-286eca69fe60.png)
  
-  b. dibawah ini merupakan tampilan browser yang dihasilkan dari eksperiment yang saya lakukan.
+   d. Dibawah ini merupakan tampilan browser yang dihasilkan dari eksperiment yang saya lakukan.
 ![Screenshot (208)](https://user-images.githubusercontent.com/101716699/160541311-6586888a-8161-43df-9065-ffb1b1583fb4.png)
 
 
 <b>B. Laporan Praktikum</b>
 
-1. langkah pertama seperti biasa kita membuat file baru terlebih dahulu dengan nama lab3_list
+1. langkah pertama seperti biasa kita membuat file baru terlebih dahulu dengan nama lab3_list.
 ![Screenshot (173)](https://user-images.githubusercontent.com/101716699/160541656-bac31020-5f20-460b-8b98-82150ad62f8b.png)
 
 ![Screenshot (174)](https://user-images.githubusercontent.com/101716699/160541665-33710f17-e1d1-4666-a540-4bf3d0a1fc08.png)
